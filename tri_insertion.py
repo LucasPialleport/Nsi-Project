@@ -4,7 +4,7 @@ Created : 10/06/2020
 @author: Lucas Pialleport
 
 Code du tri par insertion : change la méthode de tri pour la faire corresponde a celle étudié en cours
-PS : Ce code a pour objectif de démontrer nos compétance avec le tri par sélection, mais il n'est pas nécésaire au foctionement du programe et n'y est pas utilisé
+PS : Ce code a pour objectif de démontrer nos compétances avec le tri par sélection, mais il n'est pas nécésaire au foctionement du programe et n'y est pas utilisé
 """
 from random import *
 from Main import *
