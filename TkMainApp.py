@@ -63,7 +63,7 @@ def open_About():
 
     def show_source_code():
         """Ouvre une fenêtre navigateur, menant au code source sur Git Hub"""
-        webbrowser.open('https://github.com/LucasPialleport/Nsi-Project')
+        webbrowser.open('https://github.com/LucasPialleport/Pop-Stats')
 
     def show_license():
         """Ouvre le notepad, contenat la license"""
@@ -124,7 +124,7 @@ menu.configure(width=450, height=55)
 menu.place(x=0, y=0)
 
 # Texte du menu NSI Project
-menu_label = tk.Label(menu, text="NSI Project", font=('Bahnschrift SemiBold', 20), fg='#EBDD52', bg=ColorMenu)
+menu_label = tk.Label(menu, text="Pop Stats", font=('Bahnschrift SemiBold', 20), fg='#EBDD52', bg=ColorMenu)
 menu_label.place(x=10, y=9)
 
 # Bouton About
